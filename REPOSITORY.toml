@@ -1,0 +1,5 @@
+name = "zeroth-docs"
+visibility = "public"
+classification = "PUBLIC-PROTOCOL"
+license = "CC-BY-4.0"
+description = "Developer, operator, research, and architecture documentation for The Zeroth Protocol."
