@@ -1,0 +1,7 @@
+node_modules
+.next
+storybook-static
+coverage
+.vercel
+.DS_Store
+*.log
